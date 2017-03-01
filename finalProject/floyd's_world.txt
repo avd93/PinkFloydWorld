@@ -1,0 +1,66 @@
+<<<<<<< HEAD
+Bounds on movement
+	prevent flying through ground
+lighting
+	Phong reflection model
+	3 different materials for different objects
+	(distinct ambient, diffuse and specular values)
+	lights objects/some kind of lighting system
+objects
+	10 program2 objects
+	10 simpler objects
+	customizable options(applied to 20 objects? or
+		available to user?)
+screenshot
+readme
+
+EXTRA
+gravity
+user customizable speed options
+textures
+rotating objects
+collision detection
+particle system
+	clouds(texture) that spawn rain
+	lightning
+	hammer sparks
+	
+DONE!
+user controls  	
+	a-> left
+	d-> right
+	w-> forward
+=======
+Bounds on movement
+	prevent flying through ground
+lighting
+	Phong reflection model
+	3 different materials for different objects
+	(distinct ambient, diffuse and specular values)
+	lights objects/some kind of lighting system
+objects
+	10 program2 objects
+	10 simpler objects
+	customizable options(applied to 20 objects? or
+		available to user?)
+screenshot
+readme
+
+EXTRA
+gravity
+user customizable speed options
+textures
+rotating objects
+collision detection
+particle system
+	clouds(texture) that spawn rain
+	lightning
+	hammer sparks
+	
+DONE!
+user controls  	
+	a-> left
+	d-> right
+	w-> forward
+>>>>>>> 3b400b1ec2ff0c498712ca7944fd42d6225b8be0
+	s-> backward
