@@ -1,7 +1,7 @@
 # Program 3
 
 
-###Texture Items
+### Texture Items
 
 * hammers
 * * handles
@@ -12,22 +12,22 @@
 * chalkboard
 * walls
 	
-###Rotating Objects
+### Rotating Objects
 
 * hammers
 * gears/grinders
 	
-###Program 2 Objects
+### Program 2 Objects
 
 * gears/grinders
 * walls, in general
 
-###Simple Objects
+### Simple Objects
 
 * classroom walls
 * hammers
 	
-###User Controls
+### User Controls
 
 * forward->w
 * back->s
@@ -37,7 +37,7 @@
 * down->shift
 * toggle flymode->tab
 	
-###Extra Design Features
+### Extra Design Features
 
 * Phong reflection model
 * * Very shiny Hammers
@@ -46,7 +46,7 @@
 * * no shine, concrete floor
 * WALKING HAMMERS!
 
-###About Program 3
+### About Program 3
 
 Program 3 is based on the music video, The Wall, created by Pink Floyd. At the
 beginning of the program run, the user starts in a classroom. The desk objects
@@ -64,7 +64,7 @@ of a machine, in keeping with the theme.
 
 Finally, a meat grinder object has been hidden behind the back wall of the world.
 
-###An important note about running Program3
+### An important note about running Program3
 
 Qt does not find image files on my system without the entire path, so the image path will
 be wrong on a new system.
